@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/system/bin/sh
 # SPDX-License-Identifier: GPL-3.0-only
 # vim: set ts=8 sw=8 sts=4 noet:
 #
